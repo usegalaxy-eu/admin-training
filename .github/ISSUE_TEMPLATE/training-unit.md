@@ -11,10 +11,12 @@ assignees: ''
 
 Unit Name |  
 -- | --
-goals | what should people learn here
-why | why is that important and for who?
-requires | which units are required (either because of infrastructure or knowledge)
-time | 1:30
+Goals | what should people learn here
+Why | why is that important and for who?
+Dependencies | which units are required (either because of infrastructure or knowledge)
+Time | 
+Slides | 
+Exercises | 
 
 </div>
 
